@@ -9,6 +9,7 @@ Installation:
 3. Install [Package Control](http://wbond.net/sublime_packages/package_control)
 4. `rm -rf /Users/logikal/Library/Application Support/Sublime Text 2/Packages/User`
 5. `ln -s ~/.dotfiles /Users/logikal/Library/Application Support/Sublime Text 2/Packages/User`
+6. Restart ST2. Package Control will reinstall everything.
 
 ### Packages
 
@@ -17,6 +18,7 @@ Installation:
 * GitGutter
 * GitHub Tools
 * LiveReload
+* Markdown Preview
 * Package Control
 
 ### Themes
