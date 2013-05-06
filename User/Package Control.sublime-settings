@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"Abacus",
+		"Chef",
+		"GitGutter",
+		"Github Tools",
+		"LiveReload"
+	]
+}
