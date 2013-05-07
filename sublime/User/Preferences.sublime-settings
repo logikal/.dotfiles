@@ -1,7 +1,13 @@
 {
 	"color_scheme": "Packages/User/Railscasts.tmTheme",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
 }
