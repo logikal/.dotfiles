@@ -2,7 +2,9 @@
 	"installed_packages":
 	[
 		"Abacus",
+		"BracketHighlighter",
 		"Chef",
+		"Git",
 		"GitGutter",
 		"Github Tools",
 		"LiveReload",

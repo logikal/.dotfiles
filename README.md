@@ -11,16 +11,6 @@ Installation:
 5. `ln -s ~/.dotfiles /Users/logikal/Library/Application Support/Sublime Text 2/Packages/User`
 6. Restart ST2. Package Control will reinstall everything.
 
-### Packages
-
-* Abacus
-* Chef
-* GitGutter
-* GitHub Tools
-* LiveReload
-* Markdown Preview
-* Package Control
-
 ### Themes
 
 * [Railscasts](https://gist.github.com/firedev/2948029)
