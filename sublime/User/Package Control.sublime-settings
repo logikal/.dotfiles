@@ -1,16 +1,23 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Abacus",
 		"BracketHighlighter",
 		"Chef",
+		"FileDiffs",
+		"Gist",
 		"Git",
 		"GitGutter",
 		"Github Tools",
 		"LiveReload",
 		"Markdown Preview",
 		"Package Control",
+		"RSpec",
 		"SideBarEnhancements",
-		"Theme - Soda"
+		"SideBarGit",
+		"Synchronized File Scrolling",
+		"Theme - Soda",
+		"Theme - Spacegray"
 	]
 }
