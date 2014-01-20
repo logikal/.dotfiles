@@ -1,0 +1,4 @@
+{
+  "cmd": ["/opt/boxen/rbenv/shims/foodcritic", "$file"],
+  "file_regex": "FC.*: .*: (.*):(\\d*)$"
+}
